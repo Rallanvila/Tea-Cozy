@@ -6,6 +6,7 @@ body {
   opacity: 0.9;
   align-items: center;
   background-color: black;
+  width: 90%;
 }
 
 header {
@@ -31,10 +32,29 @@ nav span {
 }
 
 main {
-  width: 90%;
+  width: 1200px;
   display: flex;
+  flex-wrap: wrap;;
 }
 
 .mission {
   background-image: url(./Images/img-mission-background.jpg);
+  height: 700px;
+  width: 1200px;
+  margin-top: 69px;
+  display: flexbox;
 }
+
+.mission {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flexbox;
+  padding
+}
+/* .mission h2,
+.mission h4 {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+} */
