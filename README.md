@@ -3,9 +3,9 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Link](#Link)
+
 ## General info
-Developed HTML/CSS based off a given specsheet. 
+Developing the HTML/CSS based off a given specsheet. 
 	
 ## Technologies
 Project is created with:
@@ -13,5 +13,4 @@ Project is created with:
 * CSS
 * JS *coming soon*
 	
-## Link
 
