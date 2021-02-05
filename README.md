@@ -12,4 +12,5 @@ Project is created with:
 * CSS
 * JS *coming soon*
 	
-
+## Link
+https://rallanvila.github.io/Tea-Cozy/
