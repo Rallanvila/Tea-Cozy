@@ -7,15 +7,6 @@
   font-size: 22px;
 }
 
-h1,
-h2,
-h3,
-h4,
-a {
-  opacity: 0.9;
-  padding: 10;
-}
-
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -51,4 +42,33 @@ nav {
 nav span {
   padding: 0 20px;
   text-decoration: underline;
+}
+
+header img {
+  align-self: center;
+}
+
+.main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+.mission {
+  padding-top 69px;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  background-image: url(./Images/img-mission-background.jpg);
+  height: 700px;
+}
+
+h1, h2, h3, h4 {
+  padding: 10px
+}
+
+h2 {
+  font-size: 32px;
 }
